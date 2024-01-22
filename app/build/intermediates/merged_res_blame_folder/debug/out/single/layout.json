@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.surya.androidlauncher.app-mergeDebugResources-42:/layout/list_item.xml",
+        "source": "com.surya.androidlauncher.app-main-45:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-mergeDebugResources-42:/layout/activity_app_list.xml",
+        "source": "com.surya.androidlauncher.app-main-45:/layout/activity_app_list.xml"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "com.surya.androidlauncher.app-main-45:/layout/activity_main.xml"
+    }
+]

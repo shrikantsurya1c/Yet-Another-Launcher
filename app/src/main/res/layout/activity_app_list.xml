@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--    //This file defines the layout of an item in the RecyclerView.-->
+<!--    // Each recycler view item represents an application installed on the user's device.-->
+<!--    // It shows the application's icon, label, and package name.-->
+<!--    // We display the application icon using an ImageView instance and TextView instances for the label and package name.-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="100dp"
+        android:paddingBottom="5dp"
+        android:text="My Launcher"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:isScrollContainer="true">
+
+    </TextView>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/apps_list"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:outlineAmbientShadowColor="@color/white"
+        android:scrollbarSize="4dp">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+
+
+</LinearLayout>

@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.surya.androidlauncher.app-merged_res-43:/layout_activity_main.xml.flat",
+        "source": "com.surya.androidlauncher.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-merged_res-43:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.surya.androidlauncher.app-main-45:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-merged_res-43:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.surya.androidlauncher.app-main-45:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-merged_res-43:/layout_list_item.xml.flat",
+        "source": "com.surya.androidlauncher.app-main-45:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-merged_res-43:/menu_menu_main.xml.flat",
+        "source": "com.surya.androidlauncher.app-main-45:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-merged_res-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.surya.androidlauncher.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.surya.androidlauncher.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-merged_res-43:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.surya.androidlauncher.app-main-45:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-merged_res-43:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.surya.androidlauncher.app-main-45:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-merged_res-43:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.surya.androidlauncher.app-main-45:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.surya.androidlauncher.app-main-45:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-merged_res-43:/navigation_nav_graph.xml.flat",
+        "source": "com.surya.androidlauncher.app-main-45:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-merged_res-43:/xml_data_extraction_rules.xml.flat",
+        "source": "com.surya.androidlauncher.app-main-45:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-merged_res-43:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.surya.androidlauncher.app-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-merged_res-43:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.surya.androidlauncher.app-main-45:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-merged_res-43:/xml_backup_rules.xml.flat",
+        "source": "com.surya.androidlauncher.app-main-45:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-merged_res-43:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.surya.androidlauncher.app-main-45:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-merged_res-43:/layout_activity_app_list.xml.flat",
+        "source": "com.surya.androidlauncher.app-main-45:/layout/activity_app_list.xml"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-merged_res-43:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.surya.androidlauncher.app-main-45:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-merged_res-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.surya.androidlauncher.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.surya.androidlauncher.app-merged_res-43:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.surya.androidlauncher.app-main-45:/mipmap-xhdpi/ic_launcher.webp"
+    }
+]

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.surya.androidlauncher">
+
+    <uses-permission
+        android:name="android.permission.QUERY_ALL_PACKAGES"
+        tools:ignore="QueryAllPackagesPermission">
+
+    </uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:launchMode="singleTask"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:stateNotNeeded="true"
+        android:supportsRtl="true"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+        tools:targetApi="31"
+        tools:ignore="ExtraText">
+        <activity
+            android:name=".AppsListActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+
+<!-- We also need to set the launchMode to singleTask to make sure that only
+one instance of this Activity is held by the system at any time. To show the user's wallpaper, set the theme to Theme.Wallpaper.NoTitleBar.FullScreen.
+
+The second Activity we need to add displays the applications that are installed on the user's device.
+It's also responsible for launching applications. We don't need any special configuration for this Activity. Name it AppsListActivity-->
+
+
+
+        </activity>
+        <activity
+
+            android:name=".MainActivity"
+            android:exported="true">
+
+<!--It means ye Launcher Activity hai, and yaha se app shuru hoga-->
+            <intent-filter>
+
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.HOME" />
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
+
+            </intent-filter>
+
+
+        </activity>
+    </application>
+
+</manifest>
